@@ -1,0 +1,1 @@
+This is a place to practice my python from Learn Python the Hard Way
